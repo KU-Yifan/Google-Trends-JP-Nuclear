@@ -1,9 +1,14 @@
 # Google Trends of JP Nuclear Queries
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24393998.svg)](https://doi.org/10.5281/zenodo.24393998)
+
 Data and code for the preprint
 
 > **Geospatial Dynamics of Online Attention to Nuclear Power in Japan Before and After Fukushima**\
 > Yifan Sun, Ken Kurosaki and Benjamin C. McLellan, Kyoto University
+
+Preprint: [arXiv:2610.29924](https://arxiv.org/abs/2610.29924).
+Archived version of this repository: [doi:10.5281/zenodo.24393998](https://doi.org/10.5281/zenodo.24393998).
 
 ## About the paper
 
